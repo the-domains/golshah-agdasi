@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Golshah Agdasi]]></title>
+        <description><![CDATA[Golshah Agdasi]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Feb 2016 19:03:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fine Art]]></title>
+            <description><![CDATA[<article><h1>Fine Art</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/987fa87064d0babccfc2f5819c4d5e2e15b0e97f.jpg"></article>]]></description>
+            <link>undefinedfine-art/index.html</link>
+            <guid isPermaLink="false">0f16b65a-9d68-41ca-bbea-acae4ef6418d</guid>
+            <pubDate>Mon, 08 Feb 2016 19:03:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
